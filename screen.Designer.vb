@@ -58,9 +58,9 @@ Partial Class screen
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(124, 33)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(43, 13)
+        Me.Label1.Size = New System.Drawing.Size(104, 13)
         Me.Label1.TabIndex = 2
-        Me.Label1.Text = "minutes"
+        Me.Label1.Text = "minutes to shutdown"
         '
         'CheckBox1
         '

@@ -22,7 +22,7 @@ Namespace My.Resources
     '''<summary>
     '''  Yerelleştirilmiş dizeleri aramak gibi işlemler için, türü kesin olarak belirtilmiş kaynak sınıfı.
     '''</summary>
-    <Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0"),  _
+    <Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0"),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
      Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute(),  _
      Global.Microsoft.VisualBasic.HideModuleNameAttribute()>  _
@@ -47,7 +47,7 @@ Namespace My.Resources
         End Property
         
         '''<summary>
-        '''  Bu türü kesin olarak belirtilmiş kaynak sınıfını kullanarak geçerli iş parçacığının
+        '''  Tümü için geçerli iş parçacığının CurrentUICulture özelliğini geçersiz kular
         '''  CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
         '''</summary>
         <Global.System.ComponentModel.EditorBrowsableAttribute(Global.System.ComponentModel.EditorBrowsableState.Advanced)>  _
